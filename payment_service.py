@@ -1,3 +1,4 @@
+# Payment service - handles user authentication and transactions
 import pickle
 import os
 
