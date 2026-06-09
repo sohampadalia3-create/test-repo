@@ -3,7 +3,7 @@ import subprocess
 import sqlite3
 import yaml
 import pickle
-
+#
 # Database configuration
 HOST = "db.company.internal"
 PORT = 5432
